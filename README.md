@@ -162,12 +162,11 @@ FORMAT(AVERAGE(LOS_Distribution[avg_los_days]), "0.0") & " days"
 
 ### Dashboard Screenshots
 
-![Executive Summary]([outputs/dashboard_page1.png](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/0908d3bde6b31a0fe2c2a861b541a16c2e6282b6/screenshots/1.%20Executive%20Summary.png))
-![Admission Trends](outputs/dashboard_page2.png)
+![Executive Summary](screenshots/1. Executive Summary.png)
+![Admission Trends](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/39fbc191c47bbf3dad681d306fdbde73839099f8/screenshots/2.%20Admission%20Trends.png)
 ![ICU Unit Analysis](outputs/dashboard_page3.png)
 ![Diagnoses & LOS](outputs/dashboard_page4.png)
 ![Recommendations](outputs/dashboard_page5.png)
-
 
 ---
 
