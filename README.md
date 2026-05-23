@@ -162,11 +162,11 @@ FORMAT(AVERAGE(LOS_Distribution[avg_los_days]), "0.0") & " days"
 
 ### Dashboard Screenshots
 
-![Executive Summary](screenshots/1. Executive Summary.png)
+![Executive Summary](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/ed4a063ff5b9d1c0645ce47ce0d7ec1ee26c2a25/screenshots/1.%20Executive%20Summary.png)
 ![Admission Trends](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/39fbc191c47bbf3dad681d306fdbde73839099f8/screenshots/2.%20Admission%20Trends.png)
-![ICU Unit Analysis](outputs/dashboard_page3.png)
-![Diagnoses & LOS](outputs/dashboard_page4.png)
-![Recommendations](outputs/dashboard_page5.png)
+![ICU Unit Analysis](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/ed4a063ff5b9d1c0645ce47ce0d7ec1ee26c2a25/screenshots/3.%20ICU%20Unit%20Analysis.png)
+![Diagnoses & LOS](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/ed4a063ff5b9d1c0645ce47ce0d7ec1ee26c2a25/screenshots/4.%20Diagnoses%20%26%20LOS.png)
+![Recommendations](https://github.com/preetham1bs/Hospital-Operational-Efficiency-Dashboard-MIMIC-III/blob/ed4a063ff5b9d1c0645ce47ce0d7ec1ee26c2a25/screenshots/5.%20Recommendations.png)
 
 ---
 
