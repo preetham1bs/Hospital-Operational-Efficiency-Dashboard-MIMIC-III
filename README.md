@@ -203,8 +203,8 @@ hospital-ops-dashboard/
 │
 ├── README.md
 │
-├── sql/                               # All 10 SQL query files
-│   ├── 00_create_tables.sql
+├── mysql/                               # All 10 SQL query files
+│   ├── hospital analysis.sql
 │   ├── q1_kpi_summary.sql
 │   ├── q2_monthly_trends.sql
 │   ├── q3_icu_units.sql
@@ -217,14 +217,15 @@ hospital-ops-dashboard/
 │   └── q10_admission_type.sql
 │
 ├── powerbi/
-│   └── Hospital Dashboard.pbix              # Power BI report file
+│   └── Hospital dashboard.pbix              # Power BI report file
 │
-└── outputs/                           # Dashboard screenshots only
-    ├── dashboard_page1.png
-    ├── dashboard_page2.png
-    ├── dashboard_page3.png
-    ├── dashboard_page4.png
-    └── dashboard_page5.png
+└── screenshots/                           # Dashboard screenshots & PDF
+    ├── 1.Executive Summary.png
+    ├── 2.Admission Trends.png
+    ├── 3.ICU Unit Analysis.png
+    ├── 4.Diagnoses & LOS.png
+    └── 5.Recommendations.png
+    └── Hospital dashboard PDF.png
 ```
 
 > ⚠️ CSV exports of MIMIC data are excluded from this repo per data use agreement.
