@@ -59,7 +59,7 @@ The project workflow was built using a local MySQL database for data storage, SQ
 **Tables used in this project:**
 
 | Table | Purpose |
-|---|---|---|
+|---|---|
 | `admissions` | Hospital visits, admission type, discharge destination, mortality |
 | `patients` | Age, gender |
 | `icustays` | ICU unit type, length of stay |
